@@ -1,0 +1,16 @@
+C:\Users\aleja\OneDrive\Documentos\git GannetUltimaVersion\2024s2_poo23b\GannetApp\src\main\java\mx\edu\uaz\is\poo2\gb\gannetapp\GannetApp.java
+C:\Users\aleja\OneDrive\Documentos\git GannetUltimaVersion\2024s2_poo23b\GannetApp\src\main\java\mx\edu\uaz\is\poo2\gb\gannetapp\igu\AltaAgroquimico.java
+C:\Users\aleja\OneDrive\Documentos\git GannetUltimaVersion\2024s2_poo23b\GannetApp\src\main\java\mx\edu\uaz\is\poo2\gb\gannetapp\igu\ConsultaAgroquimico.java
+C:\Users\aleja\OneDrive\Documentos\git GannetUltimaVersion\2024s2_poo23b\GannetApp\src\main\java\mx\edu\uaz\is\poo2\gb\gannetapp\igu\mensajes\Mensajes.java
+C:\Users\aleja\OneDrive\Documentos\git GannetUltimaVersion\2024s2_poo23b\GannetApp\src\main\java\mx\edu\uaz\is\poo2\gb\gannetapp\igu\ModifAgroquimico.java
+C:\Users\aleja\OneDrive\Documentos\git GannetUltimaVersion\2024s2_poo23b\GannetApp\src\main\java\mx\edu\uaz\is\poo2\gb\gannetapp\igu\Principal.java
+C:\Users\aleja\OneDrive\Documentos\git GannetUltimaVersion\2024s2_poo23b\GannetApp\src\main\java\mx\edu\uaz\is\poo2\gb\gannetapp\igu\Receta.java
+C:\Users\aleja\OneDrive\Documentos\git GannetUltimaVersion\2024s2_poo23b\GannetApp\src\main\java\mx\edu\uaz\is\poo2\gb\gannetapp\logica\Agroquimico.java
+C:\Users\aleja\OneDrive\Documentos\git GannetUltimaVersion\2024s2_poo23b\GannetApp\src\main\java\mx\edu\uaz\is\poo2\gb\gannetapp\logica\Controladora.java
+C:\Users\aleja\OneDrive\Documentos\git GannetUltimaVersion\2024s2_poo23b\GannetApp\src\main\java\mx\edu\uaz\is\poo2\gb\gannetapp\logica\ExcelImporter.java
+C:\Users\aleja\OneDrive\Documentos\git GannetUltimaVersion\2024s2_poo23b\GannetApp\src\main\java\mx\edu\uaz\is\poo2\gb\gannetapp\logica\RecetaController.java
+C:\Users\aleja\OneDrive\Documentos\git GannetUltimaVersion\2024s2_poo23b\GannetApp\src\main\java\mx\edu\uaz\is\poo2\gb\gannetapp\persistencia\exceptions\AgroquimicoJpaController.java
+C:\Users\aleja\OneDrive\Documentos\git GannetUltimaVersion\2024s2_poo23b\GannetApp\src\main\java\mx\edu\uaz\is\poo2\gb\gannetapp\persistencia\exceptions\ControladoraPersistencia.java
+C:\Users\aleja\OneDrive\Documentos\git GannetUltimaVersion\2024s2_poo23b\GannetApp\src\main\java\mx\edu\uaz\is\poo2\gb\gannetapp\persistencia\exceptions\exceptions\IllegalOrphanException.java
+C:\Users\aleja\OneDrive\Documentos\git GannetUltimaVersion\2024s2_poo23b\GannetApp\src\main\java\mx\edu\uaz\is\poo2\gb\gannetapp\persistencia\exceptions\exceptions\NonexistentEntityException.java
+C:\Users\aleja\OneDrive\Documentos\git GannetUltimaVersion\2024s2_poo23b\GannetApp\src\main\java\mx\edu\uaz\is\poo2\gb\gannetapp\persistencia\exceptions\exceptions\PreexistingEntityException.java
